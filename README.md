@@ -38,3 +38,5 @@ bash
 git clone [https://github.com/davidbsmith-bitknot/BK-NarCop.git](https://github.com/davidbsmith-bitknot/BK-NarCop.git)
 cd BK-NarCop
 python3 validation_harness.py
+
+This software is a part of an academic paper released May 24, 2026 on Zenodo as a preprint. The full paper explaining the theory behind the protocol can be found at: https://zenodo.org/records/20361222
