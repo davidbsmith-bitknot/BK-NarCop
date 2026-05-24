@@ -39,6 +39,20 @@ git clone [https://github.com/davidbsmith-bitknot/BK-NarCop.git](https://github.
 cd BK-NarCop
 python3 validation_harness.py
 
+Phase II Update
+
+Phase II has been merged into the repository (`phase2_discrete.py`). 
+
+We have stripped away continuous parameters and locked the system into an alphabet derived from the **Binary Icosahedral Group (2I)**. 
+
+$120^{64} \approx 1.97 \times 10^{133}$ unique states.
+
+This is purely combinatorial, and without a continuous manifold, gradient-descent and traditional neural net landscape traversers experience an absolute loss of signal. 
+
+The system is now a strict boolean gate. Loop identities must resolve with zero-recoil precision to the identity matrix.
+
+The $500 cash bounty covers cracks on *either* Phase I or Phase II. Take your tools, pick your phase, and show us what you can break!
+
 This software is a part of an academic paper released May 24, 2026 on Zenodo as a preprint. The full paper explaining the theory behind the protocol can be found at: https://zenodo.org/records/20361222
 
 HALL OF FAME
