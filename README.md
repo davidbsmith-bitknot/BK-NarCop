@@ -13,14 +13,14 @@ By forcing continuous transformations to pass through a bipartite graph dictated
 ANTI-EXPLOITATION & NON-PROPRIETARY DEFENSE MANDATE
 This repository has been launched to secure the public domain and prevent commercial enclosure or predatory exploitation of this technology. 
 
-1. Scope of Public Domain Mathematical Claims
+Scope of Public Domain Mathematical Claims
 The underlying mathematical architecture detailed within this software and its corresponding manuscripts covers the specific use of:
 
 • Alternating node chirality settings as topological filters to force bipartite constraints over path holonomies.
 • Continuous or discretized parameterizations of $SU(2)$, $SU(N)$, or higher dimensional Lie group matrices as edge connection elements over a relational network.
 • Overlapping path configurations bounded specifically to targeted non-zero commutator targets or braiding vectors to explicitly engineer false optimization basins.
 
-3. Legal "Poison Pill" for Commercial Closures
+Legal "Poison Pill" for Commercial Closures
 This framework is released under the **GNU General Public License v3 (GPL-3.0)**. This license provides absolute copyleft protection. 
 
 If any entity, corporation, or independent software developer attempts to use, optimize, or build upon the BK-NarCop paradigm to create software or hardware systems, they are legally compelled by international copyright law to make their entire derivative software product completely free and open-source to the public under this exact same license. Any attempt to encapsulate adjacent extensions of this non-Abelian constraint primitive into proprietary, closed-source, or monetization architectures will represent a direct breach of this license and will be subject to enforcement.
